@@ -7,7 +7,7 @@ import NewIncident from './pages/NewIncident'
 function Routes() {
     return (
 
-        <BrowserRouter>
+        <BrowserRouter basename="/Semana-Omnistack-11">
             <Switch>
                 <Route exact path="/" component={Login} />
                 <Route path="/register" component={Register} />
