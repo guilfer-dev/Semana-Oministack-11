@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Semana-Omnistack-11/static/css/main.48262566.chunk.css",
-    "main.js": "/Semana-Omnistack-11/static/js/main.58df43f4.chunk.js",
-    "main.js.map": "/Semana-Omnistack-11/static/js/main.58df43f4.chunk.js.map",
-    "runtime-main.js": "/Semana-Omnistack-11/static/js/runtime-main.7b60a717.js",
-    "runtime-main.js.map": "/Semana-Omnistack-11/static/js/runtime-main.7b60a717.js.map",
-    "static/js/2.ab5f634e.chunk.js": "/Semana-Omnistack-11/static/js/2.ab5f634e.chunk.js",
-    "static/js/2.ab5f634e.chunk.js.map": "/Semana-Omnistack-11/static/js/2.ab5f634e.chunk.js.map",
-    "index.html": "/Semana-Omnistack-11/index.html",
-    "static/css/main.48262566.chunk.css.map": "/Semana-Omnistack-11/static/css/main.48262566.chunk.css.map",
-    "static/js/2.ab5f634e.chunk.js.LICENSE.txt": "/Semana-Omnistack-11/static/js/2.ab5f634e.chunk.js.LICENSE.txt",
-    "static/media/heroes.b413d9df.png": "/Semana-Omnistack-11/static/media/heroes.b413d9df.png",
-    "static/media/logo.99e5f780.svg": "/Semana-Omnistack-11/static/media/logo.99e5f780.svg"
+    "main.css": "/semana-omnistack-11/static/css/main.48262566.chunk.css",
+    "main.js": "/semana-omnistack-11/static/js/main.3d20f999.chunk.js",
+    "main.js.map": "/semana-omnistack-11/static/js/main.3d20f999.chunk.js.map",
+    "runtime-main.js": "/semana-omnistack-11/static/js/runtime-main.c20f00ad.js",
+    "runtime-main.js.map": "/semana-omnistack-11/static/js/runtime-main.c20f00ad.js.map",
+    "static/js/2.ab5f634e.chunk.js": "/semana-omnistack-11/static/js/2.ab5f634e.chunk.js",
+    "static/js/2.ab5f634e.chunk.js.map": "/semana-omnistack-11/static/js/2.ab5f634e.chunk.js.map",
+    "index.html": "/semana-omnistack-11/index.html",
+    "static/css/main.48262566.chunk.css.map": "/semana-omnistack-11/static/css/main.48262566.chunk.css.map",
+    "static/js/2.ab5f634e.chunk.js.LICENSE.txt": "/semana-omnistack-11/static/js/2.ab5f634e.chunk.js.LICENSE.txt",
+    "static/media/heroes.b413d9df.png": "/semana-omnistack-11/static/media/heroes.b413d9df.png",
+    "static/media/logo.99e5f780.svg": "/semana-omnistack-11/static/media/logo.99e5f780.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b60a717.js",
+    "static/js/runtime-main.c20f00ad.js",
     "static/js/2.ab5f634e.chunk.js",
     "static/css/main.48262566.chunk.css",
-    "static/js/main.58df43f4.chunk.js"
+    "static/js/main.3d20f999.chunk.js"
   ]
 }
