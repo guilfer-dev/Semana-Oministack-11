@@ -1,7 +1,9 @@
+import "dotenv/config"
+
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://omnistack11-guilfer.herokuapp.com'
+    baseURL: process.env.REACT_APP_API_URL
 });
 
 export default api;
